@@ -15,7 +15,7 @@ app.use(ErrorHandler)
 
 
 console.log("Working Tree Clean ")
-const port = process.env.PORT || 4001
+const port = process.env.PORT || 4000
 
 ConnectDb()
 
